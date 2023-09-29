@@ -1,13 +1,13 @@
 # SpringBoot-JWT-Authentication-Authorization
 JWT authentication and authorization implementation in Spring Boot 3.0 application
 
+## [Implementation]() 
+
+- The implementation is about the JWT authentication and authorization in Spring Boot 3.0 application using Spring Security 6 and MySQL database to store user credentials.
+
 <p align="center">
   <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/8731a18f-7c26-4c88-8cad-3bcf5572674a" alt="Image">
 </p>
-
-## [Implementation](https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/tree/main/SpringSecurityApi/src/main/java/com/example/springsecurityapi) 
-
-- Implementation code
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
@@ -19,6 +19,3 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
 ![image](https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/52596d27-dd2c-4688-995f-043ca6ec7240)
 
-## [Reference](https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/tree/main)
-
-- [YouTube Tutorial](https://www.youtube.com/watch?v=KxqlJblhzfI&list=PLQEQNgm2Nabv0c2tj5eYD9GtcCUunRQDK&index=16&t=898s) - Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation
