@@ -31,6 +31,10 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
 ![image](https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/5097d213-a9c7-4762-a8f4-45eb4a8dda06)
 
+- And on Postman Client side we `Authorization JWT token` as the proof of successful registration to Database:
+
+<img width="1290" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/5704153b-b754-4b7c-87a2-3ee2cf3bf335">
+
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
