@@ -39,6 +39,10 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
 <img width="1303" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/fa58c275-3609-4e06-818e-b0e9e82539eb">
 
+- And as the result we get our token back:
+
+<img width="1287" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/f93e1db9-baf5-4348-ad1e-a34ec9483228">
+
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
