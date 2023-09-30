@@ -17,6 +17,13 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
   <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/56e236a3-a688-4146-a68e-528b017b0d80" alt="Image">
 </p>
 
+- We can see that table was created:
+
+<p align="center">
+  <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/3fc19098-4b17-4fbc-936b-8acedc5224b9" alt="Image">
+</p>
+
+
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
