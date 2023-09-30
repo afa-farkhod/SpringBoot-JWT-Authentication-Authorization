@@ -35,6 +35,10 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
 <img width="1290" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/5704153b-b754-4b7c-87a2-3ee2cf3bf335">
 
+- And now, after registering the user to Database, we try to login with the existing email and password, for this we send request through Postman client to server with the email and password information:
+
+<img width="1303" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/fa58c275-3609-4e06-818e-b0e9e82539eb">
+
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
