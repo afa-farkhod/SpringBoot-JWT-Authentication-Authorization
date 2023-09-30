@@ -27,7 +27,10 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
   <img width="1307" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/0a81c831-dfd2-43f4-b0c1-8636e7ede355">
 
-- 
+- Then we can see that our new user is successfully registered to Database and in fact as we can see password is encoded so that no one except the owner can know the real password:
+
+![image](https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/5097d213-a9c7-4762-a8f4-45eb4a8dda06)
+
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
