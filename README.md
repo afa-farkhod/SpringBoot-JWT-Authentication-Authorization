@@ -23,7 +23,11 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
   <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/3fc19098-4b17-4fbc-936b-8acedc5224b9" alt="Image">
 </p>
 
+- Now we register new user to our Database by sending post request with `Postman` client:
 
+  <img width="1307" alt="image" src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/0a81c831-dfd2-43f4-b0c1-8636e7ede355">
+
+- 
 
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
