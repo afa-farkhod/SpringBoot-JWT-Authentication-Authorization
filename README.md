@@ -9,6 +9,15 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
   <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/8731a18f-7c26-4c88-8cad-3bcf5572674a" alt="Image">
 </p>
 
+## Run the Demonstration
+
+- We start the Spring application:
+
+<p align="center">
+  <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/56e236a3-a688-4146-a68e-528b017b0d80" alt="Image">
+</p>
+
+
 ## [Troubleshooting](https://stackoverflow.com/questions/39632667/how-do-i-remove-the-process-currently-using-a-port-on-localhost-in-windows)
 
 - Sometimes when we run the Spring application which in default listens to `port:8080` we get the `port in use` error. In this case we open the terminal and check port: 8080 and kill the PID which is listening to port.
