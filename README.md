@@ -5,10 +5,8 @@ JWT authentication and authorization implementation in Spring Boot 3.0 applicati
 
 - The implementation is about the JWT authentication and authorization in Spring Boot 3.0 application using Spring Security 6 and MySQL database to store user credentials. To secure the application and protect endpoints JSON Web Tokens were used. In the beginning we set the MySQL database and create user table to store user's credentials. Then we configure Spring Security to use JWT and define security rules for application. In the end, we test the application by building simple API and using Postman to send authenticated requests.
 
-<img width="881" alt="image" src="https://github.com/afa-farkhod/SpringBoot-JWT-Authentication-Authorization/assets/24220136/9d9c0e7f-0e91-4d59-b4bf-26a85d501aca">
-
 <p align="center">
-  <img src="https://github.com/af4092/SpringBoot-JWT-Authentication-Authorization/assets/24220136/8731a18f-7c26-4c88-8cad-3bcf5572674a" alt="Image">
+  <img src="https://github.com/afa-farkhod/SpringBoot-JWT-Authentication-Authorization/assets/24220136/9d9c0e7f-0e91-4d59-b4bf-26a85d501aca" alt="Image">
 </p>
 
 ## Run the Demonstration
